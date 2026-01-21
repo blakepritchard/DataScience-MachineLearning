@@ -1,1 +1,1 @@
-this project demonstrates a predictive model in KERAS using Python
+these notebooks demonstrate predictive models in scikit-learn and KERAS using Python
