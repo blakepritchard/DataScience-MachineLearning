@@ -1,1 +1,1 @@
-This repository deomnstrates data transformation techniques in Python and R
+This repository demonstrates data transformation techniques in Python and R
